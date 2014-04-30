@@ -1,0 +1,16 @@
+.pathvisiojs-diffviewer {
+  border: 1px solid #000;
+  height: 500px;
+}
+
+.pathvisiojs-diffviewer .pane {
+  float: left;
+  width: 50%;
+  height: 500px;
+}
+
+.pathvisiojs-diffviewer .pane.pane-left {
+}
+
+.pathvisiojs-diffviewer .pane.pane-right {
+}
